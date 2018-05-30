@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+/*Google Fonts*/
+* {
+    font-family: 'Raleway', Arial, serif;
+    box-sizing: border-box;
+}
+/* should use body here possibly? */
+body { 
+    height: 100%;
+    width: 100%;
+    position: relative;
+    /* overflow: auto; */
+    background: url(../images/dark-grey-terrazzo.png) repeat repeat;
+    /* border: red 2px solid; */
+}
+
+
+
+.myContainer {
+    /* max-width: 960px; */
+    margin-bottom: 4em;
+    /* margin: 4em auto; */
+    border: rgba(0,0,0,0.1) 2px ridge;
+    
+}
+
+figure {
+    max-width: 650px;
+    position: relative;
+    margin-bottom: 2em;
+
+}
+img {
+    margin: 0 auto;
+}
+
+img#myImg {
+    float: left;
+}
+
+figcaption {
+    position: absolute;
+    bottom: 10px;
+    right: 0;
+    left: 0;
+    font-size: 1.25em;
+    color: white;
+    text-align: center;
+    background: rgba(0,0,0,0.6);
+}
+
+
+footer {
+    position: relative;
+    background: lightgray;
+    max-width: 100%;
+}
+
+#tealBar {
+    position: absolute;
+    height: .5em;
+    top: 0;
+    right: 0;
+    left: 0;
+    background: teal;
+    border: none;
+}
+.text-md {
+    font-size: 1.2em;
+}
+
+@media only screen and (max-width: 426px) {
+    img#myImg {
+        float: none;
+        width: 100%;
+        
+    }
+}
