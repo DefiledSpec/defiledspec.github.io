@@ -1,3 +1,14 @@
-# defiledspec.github.io
+# Web Development Portfolio
 
-[Portfolio Link]https://defiledspec.github.io
+[Portfolio](https://defiledspec.github.io)
+
+---
+## Projects Completed
+
+* Hangman - Word Game
+* Crystal Collector - Numbers Game
+* Trivia - Trivia based game using API calls
+
+## Current Projects
+
+* Giphy - Application using Giphy Api
