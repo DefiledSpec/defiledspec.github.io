@@ -8,7 +8,8 @@
 * Hangman - Word Game
 * Crystal Collector - Numbers Game
 * Trivia - Trivia based game using API calls
+* GifTastic - Application using GIPHY API
 
 ## Current Projects
 
-* Giphy - Application using Giphy Api
+* Train Scheduler - 
