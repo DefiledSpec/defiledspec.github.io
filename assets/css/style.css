@@ -4,31 +4,24 @@
     font-family: 'Raleway', Arial, serif;
     box-sizing: border-box;
 }
-/* should use body here possibly? */
+/* shouldn't use body here possibly? */
 body { 
     height: 100%;
     width: 100%;
     position: relative;
-    /* overflow: auto; */
     background: url(../images/dark-grey-terrazzo.png) repeat repeat;
-    /* border: red 2px solid; */
 }
-
-
-
 .myContainer {
     /* max-width: 960px; */
     margin-bottom: 4em;
     /* margin: 4em auto; */
-    border: rgba(0,0,0,0.1) 2px ridge;
-    
+    border: rgba(0,0,0,0.1) 2px ridge;   
 }
 
 figure {
     max-width: 650px;
     position: relative;
     margin-bottom: 2em;
-
 }
 img {
     margin: 0 auto;
@@ -48,7 +41,6 @@ figcaption {
     text-align: center;
     background: rgba(0,0,0,0.6);
 }
-
 
 footer {
     position: relative;
@@ -72,7 +64,6 @@ footer {
 @media only screen and (max-width: 426px) {
     img#myImg {
         float: none;
-        width: 100%;
-        
+        width: 100%;        
     }
 }
