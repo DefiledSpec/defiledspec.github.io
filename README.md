@@ -11,7 +11,7 @@
 * GifTastic - Application using GIPHY API
 * Train Scheduler - Simple application to add new trains and frequency of arrival to station, using Firebase Realtime Database
 * MEH YouTube Player - A simple web app that gives you song lyrics from MusixMatch next to your favorite songs or music videos from YouTube
+* Liri Bot - Like SIRI but...better!
 
 ## Current Projects
 
-* LIRI - Like SIRI but...better?
