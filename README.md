@@ -3,6 +3,7 @@
 [Portfolio](https://defiledspec.github.io)
 
 ---
+
 ## Projects Completed
 
 * Hangman - Word Game
@@ -13,5 +14,8 @@
 * MEH YouTube Player - A simple web app that gives you song lyrics from MusixMatch next to your favorite songs or music videos from YouTube
 * Liri Bot - Like SIRI but...better!
 * Word Guess CLI - Hangman game using constructors in node.js and inquirer.js
+* Bamazon - Amazon like store front on the command line written in node.js and using mySQL for data storage.
 
 ## Current Projects
+
+* Friend Finder - Node.js server with front-end client for finding a friend with similar intrests.
