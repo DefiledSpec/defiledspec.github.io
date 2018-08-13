@@ -6,6 +6,8 @@
 
 ## Projects Completed
 
+---
+
 * Hangman - Word Game
 * Crystal Collector - Numbers Game
 * Trivia - Trivia based game using API calls
@@ -18,5 +20,7 @@
 * Friend Finder - Node.js server with front-end client for finding a friend with similar intrests.
 
 ## Current Projects
+
+---
 
 * Eat Da Burger - Node.js ORM using handlebars
