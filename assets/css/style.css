@@ -48,6 +48,16 @@ footer {
     max-width: 100%;
 }
 
+#redirect {
+    background: white;
+    color: black;
+    text-align: center;
+    padding: .5em .75em;
+    font-size: 1.5em;
+    width: 40%;
+    margin: 4em auto;
+}
+
 #tealBar {
     position: absolute;
     height: .5em;
