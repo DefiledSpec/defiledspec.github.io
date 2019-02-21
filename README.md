@@ -23,5 +23,3 @@
 ## Current Projects
 
 ---
-
-* Project 2
