@@ -1,2 +1,2 @@
-// alert('This site has been moved to http://defiledspec.herokuapp.com/')
-// setTimeout(() => window.location.replace('http://defiledspec.herokuapp.com/'), 2500)
+alert('This site has been moved to https://projectvoid.info/');
+setTimeout(() => window.location.replace('https://projectvoid.info/'), 2500)
